@@ -1,0 +1,13 @@
+D:\DEESKTOP\CSharp\30DaysOfCode\CurrentDay\CurrentDay\CurrentDay\bin\Debug\netcoreapp3.1\CurrentDay.exe
+D:\DEESKTOP\CSharp\30DaysOfCode\CurrentDay\CurrentDay\CurrentDay\bin\Debug\netcoreapp3.1\CurrentDay.deps.json
+D:\DEESKTOP\CSharp\30DaysOfCode\CurrentDay\CurrentDay\CurrentDay\bin\Debug\netcoreapp3.1\CurrentDay.runtimeconfig.json
+D:\DEESKTOP\CSharp\30DaysOfCode\CurrentDay\CurrentDay\CurrentDay\bin\Debug\netcoreapp3.1\CurrentDay.runtimeconfig.dev.json
+D:\DEESKTOP\CSharp\30DaysOfCode\CurrentDay\CurrentDay\CurrentDay\bin\Debug\netcoreapp3.1\CurrentDay.dll
+D:\DEESKTOP\CSharp\30DaysOfCode\CurrentDay\CurrentDay\CurrentDay\bin\Debug\netcoreapp3.1\CurrentDay.pdb
+D:\DEESKTOP\CSharp\30DaysOfCode\CurrentDay\CurrentDay\CurrentDay\obj\Debug\netcoreapp3.1\CurrentDay.AssemblyInfoInputs.cache
+D:\DEESKTOP\CSharp\30DaysOfCode\CurrentDay\CurrentDay\CurrentDay\obj\Debug\netcoreapp3.1\CurrentDay.AssemblyInfo.cs
+D:\DEESKTOP\CSharp\30DaysOfCode\CurrentDay\CurrentDay\CurrentDay\obj\Debug\netcoreapp3.1\CurrentDay.csproj.CoreCompileInputs.cache
+D:\DEESKTOP\CSharp\30DaysOfCode\CurrentDay\CurrentDay\CurrentDay\obj\Debug\netcoreapp3.1\CurrentDay.dll
+D:\DEESKTOP\CSharp\30DaysOfCode\CurrentDay\CurrentDay\CurrentDay\obj\Debug\netcoreapp3.1\CurrentDay.pdb
+D:\DEESKTOP\CSharp\30DaysOfCode\CurrentDay\CurrentDay\CurrentDay\obj\Debug\netcoreapp3.1\CurrentDay.genruntimeconfig.cache
+D:\DEESKTOP\CSharp\30DaysOfCode\CurrentDay\CurrentDay\CurrentDay\obj\Debug\netcoreapp3.1\CurrentDay.csprojAssemblyReference.cache
